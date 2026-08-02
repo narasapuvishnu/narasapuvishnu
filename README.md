@@ -1,5 +1,28 @@
-# 💫 About Me:
-# Hi, I'm Vishnu Vardhan 👋<br><br>🎓 B.Tech CSE Student @ SVCE Tirupati (2027)<br><br>💻 Passionate about Full Stack Development and building clean, responsive, and user-friendly web applications.<br><br>🛠️ Tech Stack: HTML • CSS • JavaScript • Bootstrap • Java • SQL • Git & GitHub • React (Basics) • Node.js (Basics)<br><br>🧠 Consistently solving DSA problems on LeetCode to strengthen problem-solving and coding skills.<br><br>🚀 Currently exploring Full Stack Development and open to Internship & Entry-Level Software Development opportunities.<br><br>*"Code. Learn. Build. Repeat."*<br>
+# 💫 About Me
+
+Hi, I'm **Vishnu Vardhan** 👋
+
+🎓 **B.Tech Computer Science & Engineering Student @ SVCE Tirupati | 2027**
+
+💻 **Aspiring Full Stack Developer** passionate about building clean, responsive, and user-friendly web applications.
+
+🛠️ **Tech Stack:**
+**Java • JavaScript • HTML • CSS • Bootstrap • React.js • Node.js • Express.js • SQL • Firebase • Git & GitHub**
+
+🧠 **Problem Solver:**
+Regularly practicing **Data Structures & Algorithms** and solving problems on **LeetCode** to strengthen my problem-solving and coding skills.
+
+🚀 **Currently:**
+Exploring **Full Stack Development**, improving my **Java & DSA** skills, and building practical projects.
+
+🎯 **Looking for:**
+**Internship & Entry-Level Software Development opportunities** where I can learn, contribute, and grow as a developer.
+
+💡 **Interests:**
+Full Stack Development • Java • DSA • Web Development • Problem Solving
+
+> *"Code. Learn. Build. Repeat."*
+
 
 
 ## 🌐 Socials:
